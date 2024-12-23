@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Goblin Chieftain",
+        "rank": "C",
+        "attacks": ["Club Smash", "Roar"],
+        "power": 500,
+        "health": 800,
+        "stage": 1,
+        "img": "goblin.png",
+        "front_img": "goblin_front.jpg"
+    },
+    {
+        "name": "Skeleton Warrior",
+        "rank": "C",
+        "attacks": ["Bone Slash", "Shield Bash"],
+        "power": 550,
+        "health": 850,
+        "stage": 1,
+        "img": "skeleton.png",
+        "front_img": "skeleton_front.png"
+    },
+    {
+        "name": "Slime King",
+        "rank": "C",
+        "attacks": ["Acid Spit", "Divide"],
+        "power": 600,
+        "health": 900,
+        "stage": 1,
+        "img": "slime_king.png",
+        "front_img": "slime_king_front.jpg"
+    },
+    {
+        "name": "Orc Warlord",
+        "rank": "B",
+        "attacks": ["Axe Swing", "War Cry"],
+        "power": 800,
+        "health": 1200,
+        "stage": 2,
+        "img": "orc.png",
+        "front_img": "orc_front.jpg"
+    },
+    {
+        "name": "Lizardman Shaman",
+        "rank": "B",
+        "attacks": ["Poison Dart", "Healing Chant"],
+        "power": 850,
+        "health": 1100,
+        "stage": 2,
+        "img": "lizard.png",
+        "front_img": "lizard_front.jpg"
+    },
+    {
+        "name": "Dark Elf Archer",
+        "rank": "B",
+        "attacks": ["Arrow Barrage", "Shadow Step"],
+        "power": 900,
+        "health": 1150,
+        "stage": 2,
+        "img": "dark_archer.png",
+        "front_img": "dark_archer_front.jpg"
+    },
+    {
+        "name": "Cursed Knight",
+        "rank": "A",
+        "attacks": ["Dark Slash", "Shield of Despair"],
+        "power": 1100,
+        "health": 1400,
+        "stage": 3,
+        "img": "knight.png",
+        "front_img": "knight_front.jpg"
+    },
+    {
+        "name": "Gargoyle Sentinel",
+        "rank": "A",
+        "attacks": ["Stone Fist", "Wing Flap"],
+        "power": 1150,
+        "health": 1450,
+        "stage": 3,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Flame Witch",
+        "rank": "A",
+        "attacks": ["Fireball", "Flame Shield"],
+        "power": 1200,
+        "health": 1500,
+        "stage": 3,
+        "img": "flame_witch.png",
+        "front_img": "flame_witch_front.jpg"
+    },
+    {
+        "name": "Vampire Count",
+        "rank": "A+",
+        "attacks": ["Blood Drain", "Bat Swarm"],
+        "power": 1400,
+        "health": 1600,
+        "stage": 4,
+        "img": "vampire.png",
+        "front_img": "vampire_front.jpg"
+    },
+    {
+        "name": "Cyclops Brute",
+        "rank": "A+",
+        "attacks": ["Ground Slam", "Boulder Toss"],
+        "power": 1450,
+        "health": 1700,
+        "stage": 4,
+        "img": "cyclopes.png",
+        "front_img": "cyclopes_front.png"
+    },
+    {
+        "name": "Shadow Assassin",
+        "rank": "A+",
+        "attacks": ["Shadow Strike", "Cloak of Shadows"],
+        "power": 1500,
+        "health": 1650,
+        "stage": 4,
+        "img": "shadow_assain.png",
+        "front_img": "shadow_assasin_front.jpg"
+    },
+    {
+        "name": "Hellhound",
+        "rank": "S",
+        "attacks": ["Inferno Bite", "Flame Breath"],
+        "power": 1800,
+        "health": 2000,
+        "stage": 5,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Ice Queen",
+        "rank": "S",
+        "attacks": ["Frost Nova", "Ice Spike"],
+        "power": 1850,
+        "health": 2100,
+        "stage": 5,
+        "img": "ice_queen.png",
+        "front_img": "ice_queen_front.png"
+    },
+    {
+        "name": "Thunder Titan",
+        "rank": "S",
+        "attacks": ["Lightning Strike", "Thunder Clap"],
+        "power": 1900,
+        "health": 2200,
+        "stage": 5,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Necromancer",
+        "rank": "S+",
+        "attacks": ["Raise Dead", "Soul Siphon"],
+        "power": 2200,
+        "health": 2500,
+        "stage": 6,
+        "img": "necromancer.png",
+        "front_img": "necromancer_front.jpg"
+    },
+    {
+        "name": "Archdemon",
+        "rank": "S+",
+        "attacks": ["Hellfire", "Demonic Slash"],
+        "power": 2250,
+        "health": 2600,
+        "stage": 6,
+        "img": "archdemon.png",
+        "front_img": "archdemon_front.jpg"
+    },
+    {
+        "name": "Dragon Knight",
+        "rank": "S+",
+        "attacks": ["Dragon Breath", "Tail Whip"],
+        "power": 2300,
+        "health": 2550,
+        "stage": 6,
+        "img": "dragon_knight.png",
+        "front_img": "dragon_knight_front.png"
+    },
+    {
+        "name": "The Frost Monarch",
+        "rank": "SS",
+        "attacks": ["Ice Dick", "Frost Biting"],
+        "power": 3000,
+        "health": 5000,
+        "stage": 7,
+        "img": "frost_monarch.png",
+        "front_img": "frost_monarch_front.jpg"
+    },
+    {
+        "name": "Storm Emperor",
+        "rank": "SS",
+        "attacks": ["Hurricane Slash", "Thunderstorm"],
+        "power": 3100,
+        "health": 5200,
+        "stage": 7,
+        "img": "storm_emperor.png",
+        "front_img": "storm_emperor_front.jpg"
+    },
+    {
+        "name": "Abyss Lord",
+        "rank": "SS",
+        "attacks": ["Void Blast", "Dark Wave"],
+        "power": 3200,
+        "health": 5300,
+        "stage": 7,
+        "img": "abyss_lord.png",
+        "front_img": "abyss_lord_front.jpg"
+    },
+    {
+        "name": "Blood Emperor",
+        "rank": "SS+",
+        "attacks": ["Bloodstorm", "Vampiric Strike"],
+        "power": 3500,
+        "health": 6000,
+        "stage": 8,
+        "img": "blood_emperor.png",
+        "front_img": "blood_emperor_front.jpg"
+    },
+    {
+        "name": "Titan King",
+        "rank": "SS+",
+        "attacks": ["Earthquake", "Rock Smash"],
+        "power": 3600,
+        "health": 6100,
+        "stage": 8,
+        "img": "titan_king.png",
+        "front_img": "titan_king_front.jpg"
+    },
+    {
+        "name": "Phoenix Queen",
+        "rank": "SS+",
+        "attacks": ["Flame Surge", "Rebirth"],
+        "power": 3700,
+        "health": 6200,
+        "stage": 8,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Baran Commanded",
+        "rank": "SS",
+        "attacks": ["Fire Dick", "Blaze Glaze"],
+        "power": 3000,
+        "health": 5500,
+        "stage": 9,
+        "img": "",
+        "front_img": "baron_front.jpg"
+    },
+    {
+        "name": "Chaos Dragon",
+        "rank": "SS+",
+        "attacks": ["Void Flame", "Chaos Roar"],
+        "power": 4000,
+        "health": 7000,
+        "stage": 9,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Dark Phoenix",
+        "rank": "SS+",
+        "attacks": ["Shadow Flare", "Phoenix Rebirth"],
+        "power": 4100,
+        "health": 7100,
+        "stage": 9,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "King of Shadows",
+        "rank": "SSS",
+        "attacks": ["Eclipse Strike", "Shadow Dominion"],
+        "power": 5000,
+        "health": 8000,
+        "stage": 10,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "God of Destruction",
+        "rank": "SSS",
+        "attacks": ["Annihilation Wave", "Chaos Control"],
+        "power": 5100,
+        "health": 8200,
+        "stage": 10,
+        "img": "",
+        "front_img": ""
+    },
+    {
+        "name": "Emperor of Darkness",
+        "rank": "SSS",
+        "attacks": ["Black Hole", "Void Slash"],
+        "power": 5200,
+        "health": 8400,
+        "stage": 10,
+        "img": "",
+        "front_img": ""
+    }
+]

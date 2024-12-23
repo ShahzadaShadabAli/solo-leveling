@@ -1,0 +1,21 @@
+[
+    {
+      "name": "fire",
+      "description": "Welcome to the Fire Arena, a place of intense heat and fierce battles. Win here and be rewarded by Emma Laurent.",
+      "winning_award": [{ "$oid": "668c0749191de5e7dc972249" }],
+      "image": "fire-arena.png"
+    },
+    {
+      "name": "ice",
+      "description": "Enter the Ice Arena, where the cold chills to the bone and only the strongest survive. Triumph here and be honored by Cha Hae-In and Alicia Blanche.",
+      "winning_award": [{ "$oid": "668c0749191de5e7dc972247" }, { "$oid": "668c0749191de5e7dc972243" }],
+      "image": "ice-arena.png"
+    },
+    {
+      "name": "exotic",
+      "description": "Step into the Exotic Arena, a realm of mystery and unparalleled challenges. Victory here brings recognition from Choi Jong-In.",
+      "winning_award": [{ "$oid": "668c0749191de5e7dc972248" }],
+      "image": "exotic-arena.jpg"
+    }
+]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Assassin",
+      "desc": "A stealthy hunter who specializes in quick and lethal attacks, excelling in ambushes and evasion.",
+      "img": "assassin.webp"
+    },
+    {
+      "name": "Fighter",
+      "desc": "A versatile warrior skilled in close combat, capable of both offensive and defensive maneuvers.",
+      "img": "fighter.webp"
+    },
+    {
+      "name": "Healer",
+      "desc": "A supportive hunter with the ability to heal and protect allies, ensuring the team's survival.",
+      "img": "healer.webp"
+    },
+    {
+      "name": "Mage",
+      "desc": "A master of magical arts, capable of casting powerful spells to damage enemies or support allies.",
+      "img": "mage.webp"
+    },
+    {
+      "name": "Ranger",
+      "desc": "A ranged attacker who excels in precision and long-distance attacks, often using bows or firearms.",
+      "img": "ranger.webp"
+    },
+    {
+      "name": "Tank",
+      "desc": "A formidable defender with high endurance, able to absorb damage and protect the team from harm.",
+      "img": "tank.webp"
+    }
+  ]
+  

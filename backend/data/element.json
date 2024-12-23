@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Light",
+      "desc": "An element associated with purity, healing, and illumination, often used to counter dark forces.",
+      "img": "light.webp"
+    },
+    {
+      "name": "Dark",
+      "desc": "An element linked to shadows, curses, and dark magic, often used to weaken or corrupt enemies.",
+      "img": "dark.webp"
+    },
+    {
+      "name": "Fire",
+      "desc": "An element symbolizing destruction and renewal, capable of causing great damage and burning foes.",
+      "img": "fire.webp"
+    },
+    {
+      "name": "Water",
+      "desc": "An element representing fluidity and adaptability, used for healing, support, and drowning enemies.",
+      "img": "water.webp"
+    },
+    {
+      "name": "Wind",
+      "desc": "An element embodying speed and freedom, used to enhance agility, create barriers, and control the air.",
+      "img": "wind.webp"
+    }
+  ]
+  
